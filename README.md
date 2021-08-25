@@ -1,7 +1,7 @@
 # [One Line Hacks](https://connorrothschild.github.io/one-line-hacks/)
 
 A collection of random utilities that I find myself Googling too often. 
- 
+ -----
 ## Build Setup
 
 ```bash
