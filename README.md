@@ -3,7 +3,7 @@
 A collection of random utilities that I find myself Googling too often. 
  -----
 ## Build Setup
-
+----
 ```bash
 # install dependencies
 $ npm install
