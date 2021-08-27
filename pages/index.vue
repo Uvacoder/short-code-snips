@@ -5,8 +5,7 @@
       <div class="pt-6">
         <p class="text-center font-bold text-4xl">One Line Hacks</p>
         <p class="text-center font-light text-2xl m-3">
-          A collection of random utilities that I find myself Googling too
-          often.
+          A collection of random utilities that I find myself Googling.
         </p>
       </div>
       <div v-for="hack in hacks" :key="hack.title">
